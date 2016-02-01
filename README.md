@@ -1,5 +1,5 @@
 # Aerial Screensaver for raspberry pi
 
 ## Launch
-`./aerial-screen-saver.py
+`./aerial-screen-saver.py`
 
